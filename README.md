@@ -34,8 +34,8 @@
 
 ## Resultado Final 👁️:
 
- ![Modo - White](https://github.com/HemannB/Semana-Front-End---DIO/blob/master/assets/images/site/White.png?raw=true)
- ![Modo - Dark](https://github.com/HemannB/Semana-Front-End---DIO/blob/master/assets/images/site/Dark.png?raw=true)
+ ![Modo - White](https://github.com/HemannB/DIO-Semana-Front-End/blob/master/assets/images/site/White.png?raw=true)
+ ![Modo - Dark](https://github.com/HemannB/DIO-Semana-Front-End/blob/master/assets/images/site/Dark.png?raw=true)
 
 ## 🔗 Links auxiliares
 
