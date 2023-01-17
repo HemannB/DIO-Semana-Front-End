@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/HemannB/Semana-Front-End-DIO/blob/master/assets/images/banner/logo.svg">
+    <img width="300" src="https://github.com/HemannB/DIO-Semana-Front-End/blob/master/assets/images/banner/logo.svg">
 </p>
 
 -------
